@@ -1,4 +1,4 @@
-# Embodied-Carbon# Understanding Real CO2e Emissions in Mass Timber Production Calculator
+## Understanding Real CO2e Emissions in Mass Timber Production Calculator
 
 This repository contains an Excel-based calculator designed to estimate the CO2e emissions associated with mass timber production, from harvesting to transportation and manufacturing. The calculator provides a detailed analysis of various factors affecting emissions, including tree species, transport methods, and manufacturing locations.
 
