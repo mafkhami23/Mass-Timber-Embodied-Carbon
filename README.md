@@ -1,5 +1,8 @@
 ## Understanding Real CO2e Emissions in Mass Timber Production Calculator
 
+![EPD Compare](https://github.com/user-attachments/assets/a4aa525c-a4f1-44e3-ad3e-5bb2b4c4d7af)
+
+
 This repository contains an Excel-based calculator designed to estimate the CO2e emissions associated with mass timber production, from harvesting to transportation and manufacturing. The calculator provides a detailed analysis of various factors affecting emissions, including tree species, transport methods, and manufacturing locations.
 
 ## Overview
@@ -15,6 +18,9 @@ The **Understanding Real CO2e Emissions in Mass Timber Production Calculator** i
 - **Geographical Impact**: Considers manufacturing and city locations to calculate transportation emissions.
 - **Detailed Datasets**: Utilizes comprehensive datasets for accurate emission calculations.
 
+![Slash Biogenic EPD based on Tree Species](https://github.com/user-attachments/assets/25c600e2-5fce-4f26-9c77-53b59d663155)
+
+
 ## Sheets Breakdown
 
 1. **Info**: Provides an overview and instructions on how to use the calculator effectively.
@@ -26,6 +32,8 @@ The **Understanding Real CO2e Emissions in Mass Timber Production Calculator** i
 7. **City_Locations**: Lists cities and related logistical data that affect transportation emissions.
 8. **Dataset**: Contains raw data utilized in the calculations, providing transparency and traceability.
 9. **Pile Slash Decomposition**: Covers emissions related to the decomposition of slash piles left after timber harvesting.
+
+   
 
 ## Getting Started
 
@@ -51,6 +59,4 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-Special thanks to all contributors who provided data and insights for developing this calculator.
