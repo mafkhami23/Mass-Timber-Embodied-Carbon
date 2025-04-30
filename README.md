@@ -65,7 +65,7 @@ The **Understanding Real CO2e Emissions in Mass Timber Production Calculator** i
 
 - Industry Coverage
     Corgan's initiatives have been featured in various industry publications, highlighting the importance of accurate carbon accounting in mass timber construction.
-    [Corgan Unveils CO₂e Emission Calculator for Mass Timber]​(https://www.bakersfield.com/ap/news/corgan-unveils-co2e-emission-calculator-for-mass-timber/article_52584078-03d4-5d45-b21d-d7cce48848d3.html(
+    [Corgan Unveils CO₂e Emission Calculator for Mass Timber]​(https://www.bakersfield.com/ap/news/corgan-unveils-co2e-emission-calculator-for-mass-timber/article_52584078-03d4-5d45-b21d-d7cce48848d3.html)
 
 
 ## Contributing
