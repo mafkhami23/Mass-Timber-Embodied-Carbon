@@ -55,16 +55,16 @@ The **Understanding Real CO2e Emissions in Mass Timber Production Calculator** i
 
 ## Explore Corgan's comprehensive research and tools aimed at understanding and managing the carbon footprint of mass timber construction:
 - **White Paper: Understanding Real CO₂e Emissions in Mass Timber Production**:</br>
-    This study delves into often-overlooked CO₂e emissions from slash left after logging and their significant contribution to the carbon footprint of mass timber projects.
+    This study delves into often-overlooked CO₂e emissions from slash left after logging and their significant contribution to the carbon footprint of mass timber projects.</br>
     [Read the full white paper](https://www.corgan.com/sites/default/files/inline-files/Corgan_Understanding-Real-CO2e-Emissions-in-Mass-Timber-Production_White-Paper_Final.pdf)
    
 
 -  **Mass Timber Carbon Calculator**:</br>
-    A free, publicly available tool that enables design teams to estimate biogenic carbon emissions in mass timber projects, considering factors like tree species, slash management practices, and transportation distances.
+    A free, publicly available tool that enables design teams to estimate biogenic carbon emissions in mass timber projects, considering factors like tree species, slash management practices, and transportation distances.</br>
     [Access the calculator​](https://www.corgan.com/MTcarboncalculator)
 
 - **Industry Coverage**:</br>
-    This initiative have been featured in various industry publications, highlighting the importance of accurate carbon accounting in mass timber construction.
+    This initiative have been featured in various industry publications, highlighting the importance of accurate carbon accounting in mass timber construction.</br>
     [Corgan Unveils CO₂e Emission Calculator for Mass Timber](https://www.bakersfield.com/ap/news/corgan-unveils-co2e-emission-calculator-for-mass-timber/article_52584078-03d4-5d45-b21d-d7cce48848d3.html)
 
 
