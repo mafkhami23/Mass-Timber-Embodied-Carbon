@@ -1,7 +1,6 @@
 ## Understanding Real CO2e Emissions in Mass Timber Production Calculator
 <img width="2067" height="1433" alt="For Github_2" src="https://github.com/user-attachments/assets/1a3ec564-5715-4b0b-a464-7cbf8f47c5c6" />
 
-![EPD Compare](https://github.com/user-attachments/assets/a4aa525c-a4f1-44e3-ad3e-5bb2b4c4d7af)
 
 
 This repository contains an Excel-based calculator designed to estimate the CO2e emissions associated with mass timber production, from harvesting to transportation and manufacturing. The calculator provides a detailed analysis of various factors affecting emissions, including tree species, transport methods, and manufacturing locations.
@@ -9,6 +8,8 @@ This repository contains an Excel-based calculator designed to estimate the CO2e
 ## Overview
 
 The **Understanding Real CO2e Emissions in Mass Timber Production Calculator** is a comprehensive tool that helps users estimate the greenhouse gas (GHG) emissions involved in mass timber production processes. The tool is valuable for researchers, architects, engineers, and sustainability professionals who want to assess the environmental impact of their material choices.
+
+![EPD Compare](https://github.com/user-attachments/assets/a4aa525c-a4f1-44e3-ad3e-5bb2b4c4d7af)
 
 ## Features
 
