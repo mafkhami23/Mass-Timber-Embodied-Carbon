@@ -1,4 +1,5 @@
 ## Understanding Real CO2e Emissions in Mass Timber Production Calculator
+<img width="2067" height="1433" alt="For Github_2" src="https://github.com/user-attachments/assets/1a3ec564-5715-4b0b-a464-7cbf8f47c5c6" />
 
 ![EPD Compare](https://github.com/user-attachments/assets/a4aa525c-a4f1-44e3-ad3e-5bb2b4c4d7af)
 
